@@ -2,4 +2,4 @@
 
 ## Introduction
 
-Xandra is a program to create animated sprites.
+Xandra is a program to create pixel art.
